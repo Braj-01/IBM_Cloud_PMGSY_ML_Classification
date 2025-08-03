@@ -79,8 +79,6 @@ An ML-based classification model built using IBM Watsonx.ai AutoAI that analyzes
 ## 🖼️ Screenshots
 ### 🔹 Setting up..
 ![Setup & preview image](Project-dashboard.png)
-### 🔹 Model Leaderboard
-![Instructions](agent_instructions.jpg)
 ### 🔹 Model Comparison
 ![Model_Comparison](Model_Comparison.png)
 ### 🔹 Deployment
